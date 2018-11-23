@@ -1,0 +1,12 @@
+.vscode/
+.idea/
+.pytest_cache
+__pycache__
+src/static
+src/.coverage
+src/htmlcov
+src/.pytest_cache
+*.iml
+target/
+docs/
+*.DS_Store
