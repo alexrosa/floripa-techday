@@ -1,7 +1,0 @@
-Django==2.1.2
-pytest==3.8.1
-djangorestframework==3.8.2
-drf-yasg==1.10.1
-model-mommy==1.6.0
-django-rest-swagger==2.2.0
-coverage==4.5.1
